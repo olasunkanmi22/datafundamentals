@@ -34,7 +34,7 @@ Step 4: Update the apt-config
 
        sudo apt-get update
        
-![apt-config update](https://github.com/relianceinfo-de/das-onboarding/blob/Ridwanbranch/Databases/Mysql/images/update%20apt_install.png)
+![apt-config update](https://github.com/olasunkanmi22/datafundamentals/blob/main/images/Workbench%20config1.png)
 
 
 Step 5: Install Mysql Workbench Community
