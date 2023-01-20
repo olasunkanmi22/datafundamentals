@@ -25,7 +25,8 @@ Step 3: From the path above run the workbench installation command below (i.e ./
 
 > Then the apt-config
 
-![Mysql config start](https://github.com/relianceinfo-de/das-onboarding/blob/Ridwanbranch/Databases/Mysql/images/Mysql%20config%20start.png)
+![Mysql config start](https://github.com/olasunkanmi22/datafundamentals/blob/main/images/Mysql%20config%20start.png)
+
 
 
 
