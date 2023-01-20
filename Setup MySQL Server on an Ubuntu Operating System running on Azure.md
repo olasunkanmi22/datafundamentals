@@ -20,7 +20,7 @@ Step 3: From the path above run the workbench installation command below (i.e ./
 
 > On running the command a pop up comes up, click ok to continue
 
-![Mysql_config](https://github.com/relianceinfo-de/das-onboarding/blob/Pre_main/Products%20and%20Solutions/Databases/Mysql/Project/images/Workbench%20config1.png)
+![Mysql_config](https://github.com/olasunkanmi22/datafundamentals/blob/d5eea680abc3952c5bd3b3baa3573dd000a0303e/images/Mysql%20config%20start.png)
 
 
 > Then the apt-config
